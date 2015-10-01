@@ -1,6 +1,8 @@
 package main
 import "fmt"
 
+#https://www.hackerrank.com/challenges/angry-professor/submissions/code/14224777
+
 func main() {
     var T, N, K int
 
